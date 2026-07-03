@@ -292,7 +292,8 @@ local-v3
 local-v4
 
 안녕하세요~ 테스트로 작성되었습니다 
->>>>>>> 44b0a89d6694360d729a5aa672eb3e3160a53426
+
 local-v4-main
 Local 4: fifth commit
 Local 4: fifth commit
+local-v4
